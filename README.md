@@ -1,16 +1,23 @@
-# wallet_app
+# 💸 Neon Wallet UI – Flutter
 
-A new Flutter project.
+A sleek, neon-themed digital wallet UI built using Flutter. This design focuses on a modern and glowing user experience with components like balance display, action buttons, and a transaction list.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔮 Neon-inspired dark theme
+- 💳 Animated balance card
+- ⚡ Action buttons (Add Money, Send)
+- 📋 Transaction history list
+- 📱 Responsive and clean layout
+- backend integration Supabase
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![wallet](https://github.com/user-attachments/assets/0b8daa66-c673-459e-9529-af03941dc39e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter 3+
+- Dart
+- Custom ThemeData (Neon style)
+- Modular folder structure
